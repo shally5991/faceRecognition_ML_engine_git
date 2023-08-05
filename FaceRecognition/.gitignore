@@ -1,0 +1,61 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/.env
+/.venv
+# /database
+/image_folder
+/my_db
+.dccache
+create_data.py
+crop_face_data.py
+Deepface_recongnise.py
+deepface_video.py
+detect_face_from_video.py
+face_recognise.py
+/node_modules
+/.pnp
+.pnp.js
+my_db.zip
+Os_walk.py
+output.mp4
+outpy.avi
+Priyanka, Deepika, Kangana, Sonam.mp4
+pyplot.py
+Recognise_face.py
+red_carpet.mp4
+Retinaface.py
+sample1_folder_based.py
+sample1.py
+sample2_
+Smriti Mandhana Wins Sportswoman Of The Year (Team Sport) _ ISH 2019 _ BlueRising.mp4
+temp1.py
+tempCodeRunnerFile.py
+updated_code.zip
+verify_faces.py
+write_video.py
+README.md
+
+
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode
+.idea
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional eslint cache
+.eslintcache
